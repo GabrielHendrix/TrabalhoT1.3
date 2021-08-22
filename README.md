@@ -12,4 +12,6 @@
     ```
 ## Execução
 
----
+- Dentro do diretório faça: 
+```bash
+sudo python3 dht.py
